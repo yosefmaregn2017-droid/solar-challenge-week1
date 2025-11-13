@@ -31,3 +31,8 @@ source .venv/bin/activate
 .\\.venv\\Scripts\\activate
 
 pip install -r requirements.txt
+# Notebooks
+
+- benin_eda.ipynb: exploratory data analysis for Benin (benin-malanville.csv)
+- sierraleone_eda.ipynb: exploratory data analysis for Sierra Leone (sierraleone-bumbuna.csv)
+- togo_eda.ipynb: exploratory data analysis for Togo (togo-dapaong_qc.csv)
